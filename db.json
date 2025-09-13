@@ -1,23 +1,17 @@
 {
   "details": [
-    { "id": 1, "html": " <div class="card border-0 rounded-0 border-top">
-                                    <div class="card-body">
-                                        <p><strong>Price:</strong> $499</p>
-                                        <p><strong>Stock:</strong> 12 pcs</p>
-                                    </div>
-                                </div>" },
-    { "id": 2, "html": " <div class="card border-0 rounded-0 border-top">
-                                    <div class="card-body">
-                                        <p><strong>Price:</strong> $100</p>
-                                        <p><strong>Stock:</strong> 1 pcs</p>
-                                    </div>
-                                </div>" },
-    { "id": 3, "html": " <div class="card border-0 rounded-0 border-top">
-                                    <div class="card-body">
-                                        <p><strong>Price:</strong> $299</p>
-                                        <p><strong>Stock:</strong> 6 pcs</p>
-                                    </div>
-                                </div>" }
+    {
+    "id": 1,
+    "html": "<div class=\"card border-0 rounded-0 border-top\">\n  <div class=\"card-body\">\n    <p><strong>Price:</strong> $499</p>\n    <p><strong>Stock:</strong> 12 pcs</p>\n  </div>\n</div>"
+  },
+  {
+    "id": 2,
+    "html": "<div class=\"card border-0 rounded-0 border-top\">\n  <div class=\"card-body\">\n    <p><strong>Price:</strong> $100</p>\n    <p><strong>Stock:</strong> 1 pcs</p>\n  </div>\n</div>"
+  },
+  {
+    "id": 3,
+    "html": "<div class=\"card border-0 rounded-0 border-top\">\n  <div class=\"card-body\">\n    <p><strong>Price:</strong> $299</p>\n    <p><strong>Stock:</strong> 6 pcs</p>\n  </div>\n</div>"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
