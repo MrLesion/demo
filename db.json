@@ -1,8 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "details": [
+    { "id": 1, "html": " <div class="card border-0 rounded-0 border-top">
+                                    <div class="card-body">
+                                        <p><strong>Price:</strong> $499</p>
+                                        <p><strong>Stock:</strong> 12 pcs</p>
+                                    </div>
+                                </div>" },
+    { "id": 2, "html": " <div class="card border-0 rounded-0 border-top">
+                                    <div class="card-body">
+                                        <p><strong>Price:</strong> $100</p>
+                                        <p><strong>Stock:</strong> 1 pcs</p>
+                                    </div>
+                                </div>" },
+    { "id": 3, "html": " <div class="card border-0 rounded-0 border-top">
+                                    <div class="card-body">
+                                        <p><strong>Price:</strong> $299</p>
+                                        <p><strong>Stock:</strong> 6 pcs</p>
+                                    </div>
+                                </div>" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
