@@ -31,6 +31,8 @@
   "list": {
     "pageNum": 1,
     "totalItems": 3,
+    "sortBy": "product",
+    "sortOrder" "desc",
     "items": [
       {
         "id": 1,
